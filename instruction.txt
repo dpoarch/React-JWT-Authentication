@@ -1,0 +1,7 @@
+Please type the following command on your cli
+
+- npm install
+
+- npm start
+
+localhost starts at port 8080
